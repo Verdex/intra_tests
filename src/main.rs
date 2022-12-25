@@ -1,4 +1,6 @@
 
+mod atom_tests;
+
 use intra::*;
 
 fn id<T>(t : T) -> T {
