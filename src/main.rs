@@ -1,6 +1,4 @@
 
 mod atom_tests;
 
-fn main() {
-
-}
+fn main() { }
